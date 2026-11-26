@@ -16,4 +16,4 @@ print("Welcome to Git!")
 
 
 # Section 3
-print("Keep learning!")
+print("Keep building!")
