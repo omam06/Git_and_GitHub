@@ -1,7 +1,7 @@
 print("Hello, Git!")
 
 # Section 1
-print("Welcome to Python!")
+print("Python is fun!")
 
 # Section 2
 print("Welcome to Git!")
